@@ -1,8 +1,8 @@
 # PracticaAlexaSkills-220100
 
 <p align="center">
-  <img src="images/ticlogo.jpg" alt="TIC Logo" width="120" style="display:inline-block; vertical-align:middle; margin-right:40px;"/>
-  <img src="images/utxjlogo.jpg" alt="UTXJ Logo" width="120" style="display:inline-block; vertical-align:middle;"/>
+  <img src="images/ticlogo.jpg" alt="TIC Logo" width="320" style="display:inline-block; vertical-align:middle; margin-right:500px;"/>
+  <img src="images/utxjlogo.jpg" alt="UTXJ Logo" width="350" style="display:inline-block; vertical-align:middle;"/>
 </p>
 
 <h2 align="center">Universidad Tecnológica de Xicotepec de Juárez</h2>
