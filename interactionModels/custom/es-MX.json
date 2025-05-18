@@ -1,0 +1,85 @@
+{
+  "interactionModel": {
+    "languageModel": {
+      "intents": [
+        {
+          "name": "AMAZON.CancelIntent",
+          "samples": []
+        },
+        {
+          "name": "AMAZON.HelpIntent",
+          "samples": []
+        },
+        {
+          "name": "AMAZON.StopIntent",
+          "samples": []
+        },
+        {
+          "name": "AMAZON.NavigateHomeIntent",
+          "samples": []
+        },
+        {
+          "slots": [],
+          "name": "SaludoIntent",
+          "samples": [
+            "inicia",
+            "Hola",
+            "iniciar",
+            "Abre mi primer skill"
+          ]
+        },
+        {
+          "slots": [],
+          "name": "QuienCreoIntent",
+          "samples": [
+            "nombre del creador",
+            "cómo se llama el creador",
+            "quien desarrollo esta skill",
+            "quien hizo esta skill",
+            "quien es el creador",
+            "quien la creó",
+            "quien creó esta skill"
+          ]
+        },
+        {
+          "slots": [],
+          "name": "CarreraIntent",
+          "samples": [
+            "qué profesión tiene",
+            "dime su carrera",
+            "cuál es su carrera",
+            "qué estudia",
+            "qué carrera estudia"
+          ]
+        },
+        {
+          "slots": [],
+          "name": "ColorFavoritoIntent",
+          "samples": [
+            "tiene algún color favorito",
+            "dime su color favorito",
+            "qué color le gusta",
+            "cuál es su color favorito"
+          ]
+        },
+        {
+          "slots": [],
+          "name": "GrupoFavoritoIntent",
+          "samples": [
+            "dime su grupo favorito",
+            "qué grupos le gustan",
+            "qué música le gusta",
+            "cuál es su cantante favorito",
+            "cuál es su grupo favorito"
+          ]
+        },
+        {
+          "name": "AMAZON.FallbackIntent",
+          "samples": []
+        }
+      ],
+      "types": [],
+      "invocationName": "saludo  neftali"
+    }
+  }
+}
